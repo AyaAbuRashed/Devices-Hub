@@ -1,0 +1,57 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    
+    
+    background-image: url('background.jpg');
+}
+h1{
+
+
+    font-size: xx-large;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+     background-color: darkgray;
+    text-align: center;
+    color: white;
+    margin: 0%;
+}
+form {
+    border-radius: 5px;
+padding: 20px;
+text-align: center;
+margin-top: 30px;
+margin-left: 70px;
+margin-right: 1250px;
+color:  rgb(93, 93, 93);
+background-color: darkgray;
+
+
+
+
+}
+form input{
+
+    border-radius: 5px;
+    background-color: #F5F5DC;
+margin: 5px;
+}
+form label{
+
+    font-size: larger;
+    color: black;
+}
+#submit{
+    background-color: rgb(93, 93, 93);
+   margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+}  
+table{
+
+    float: right;
+    background-color: #F5F5DC;
+    padding: 10px;
+    margin-top: 30px;
+    color: black;
+    border-radius: 10px;
+}
